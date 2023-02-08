@@ -1,3 +1,3 @@
 document.querySelector("button").addEventListener("click", function () {
-    alert("Evento de click ALTERADO!");
+    alert("Merge realizado com sucesso!");
   });
