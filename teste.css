@@ -1,10 +1,15 @@
 div {
-    background-color: grey;
+    background-color: rgb(184, 184, 184);    
 }
 
 
 h1 {
-    font-size: 60px;
+    font-size: 20px;
     text-align: center;
-    color: red;
+    color: rgb(27, 0, 100);
+  }
+
+  button{
+    color: blue;
+    margin: 0 auto;
   }
